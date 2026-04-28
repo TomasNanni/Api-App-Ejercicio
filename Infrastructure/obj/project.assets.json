@@ -1,11 +1,33 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Application.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Application/1.0.0": {
+      "type": "project",
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tomib\\.nuget\\packages\\": {},
@@ -38,7 +60,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\Application\\Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
