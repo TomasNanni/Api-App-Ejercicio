@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPracticeApp", "ApiPracticeApp\ApiPracticeApp.csproj", "{A2D17ACF-F10E-4FA0-A920-D40125D2633D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "ApiPracticeApp\Web.csproj", "{A2D17ACF-F10E-4FA0-A920-D40125D2633D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{AB3F765C-24E6-49AD-B994-017E039ABE1B}"
 EndProject

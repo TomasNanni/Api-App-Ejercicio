@@ -327,9 +327,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\ApiPracticeApp.csproj",
-      "projectName": "ApiPracticeApp",
-      "projectPath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\ApiPracticeApp.csproj",
+      "projectUniqueName": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\Web.csproj",
+      "projectName": "Web",
+      "projectPath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\Web.csproj",
       "packagesPath": "C:\\Users\\tomib\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y30+9OotxsM=",
+  "dgSpecHash": "P3qBTPd15K0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\ApiPracticeApp.csproj",
+  "projectFilePath": "C:\\Users\\tomib\\Desktop\\Materias Facultad\\Proyecto de Laboratorio\\Api App\\ApiPracticeApp\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tomib\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
     "C:\\Users\\tomib\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.5\\microsoft.dotnet.ilcompiler.10.0.5.nupkg.sha512",
