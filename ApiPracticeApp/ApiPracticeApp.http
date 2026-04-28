@@ -1,0 +1,11 @@
+@ApiPracticeApp_HostAddress = http://localhost:5062
+
+GET {{ApiPracticeApp_HostAddress}}/todos/
+Accept: application/json
+
+###
+
+GET {{ApiPracticeApp_HostAddress}}/todos/1
+Accept: application/json
+
+###
